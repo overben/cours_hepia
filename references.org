@@ -1,5 +1,7 @@
 * Références
 
+- Librairie standard Scala: [[http://www.scala-lang.org/api/current/][Scaladoc]]
+
 ** Introduction à Scala
 
 *** Livres

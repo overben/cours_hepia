@@ -1,3 +1,2 @@
-# Cours Scala
+# HEPIA - 2013
 
-Genève, Mai-Juin 2013
